@@ -1,0 +1,15 @@
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\bin\Debug\net6.0\LogicaProgramacao.exe
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\bin\Debug\net6.0\LogicaProgramacao.deps.json
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\bin\Debug\net6.0\LogicaProgramacao.runtimeconfig.json
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\bin\Debug\net6.0\LogicaProgramacao.dll
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\bin\Debug\net6.0\LogicaProgramacao.pdb
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\LogicaProgramacao.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\LogicaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\LogicaProgramacao.AssemblyInfoInputs.cache
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\LogicaProgramacao.AssemblyInfo.cs
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\LogicaProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\LogicaProgramacao.dll
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\refint\LogicaProgramacao.dll
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\LogicaProgramacao.pdb
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\LogicaProgramacao.genruntimeconfig.cache
+C:\Users\joaol\source\repos\LogicaProgramacao\LogicaProgramacao\obj\Debug\net6.0\ref\LogicaProgramacao.dll
