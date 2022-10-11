@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace desafioss
 {
@@ -10,7 +11,7 @@ namespace desafioss
     {
         static void Main (string[] args)
         {
-           /* Double id1, id2, quantidade1, quantidade2, valor1, valor2, valorProduto1, valorProduto2, valorTotal;
+            Double id1, id2, quantidade1, quantidade2, valor1, valor2, valorProduto1, valorProduto2, valorTotal;
 
             Console.WriteLine("Digite o ID do Prieiro Produto");
             id1 = int.Parse(Console.ReadLine());
@@ -36,7 +37,7 @@ namespace desafioss
             valorTotal = valorProduto1 + valorProduto2;
 
 
-            Console.WriteLine("Valor a pagar: " + valorTotal); */
+            Console.WriteLine("Valor a pagar: " + valorTotal); 
 
 
             // Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais // 
@@ -53,7 +54,7 @@ namespace desafioss
 
             
 
-            Console.WriteLine(area);
+            Console.WriteLine(area.ToString("F4", CultureInfo.InvariantCulture));
 
             Console.ReadLine();
 
