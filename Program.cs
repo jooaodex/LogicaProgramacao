@@ -94,11 +94,11 @@ namespace desafioss
 
             Console.WriteLine("Soma:" + resultado) ;
 
-            */
+           
 
             //Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).//
 
-            /*
+           
 
             int a;
             int b;
@@ -122,7 +122,6 @@ namespace desafioss
 
             Console.WriteLine("Diferença:" + diferenca);
 
-            */
 
             //Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário.A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
 
@@ -141,8 +140,27 @@ namespace desafioss
             salarioFunc = valorHr * hrTrab;
 
             Console.WriteLine("Número funcionário:" + numFunc);
-            Console.WriteLine("Salário funcionário:" + salarioFunc.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Salário funcionário:" + salarioFunc.ToString("F2", CultureInfo.InvariantCulture)); */
 
+            // Desafio While//
+
+            int valor1, valor2;
+
+            Console.WriteLine("Digite o primeiro valor");
+            valor1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o segundo valor");
+            valor2 = int.Parse(Console.ReadLine());
+
+
+            if (valor1 > valor2) 
+            {
+                Console.WriteLine("Valor 1 é o valor maior:" + valor1);
+            }
+            else
+            {
+                Console.WriteLine("valor 2 é o valor maior" + valor2);
+            }
 
         }
 
